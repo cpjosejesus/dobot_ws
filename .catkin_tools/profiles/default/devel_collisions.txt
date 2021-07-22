@@ -1,1 +1,0 @@
-/home/asus/workspace/dobot_ws/devel/./cmake.lock 1
